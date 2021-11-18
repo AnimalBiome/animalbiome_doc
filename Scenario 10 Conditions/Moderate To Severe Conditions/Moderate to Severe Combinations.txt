@@ -1,0 +1,46 @@
+MODERATE TO Severe
+
+1. PRIMARY CONDITIONS (Any 2 of the Following)
+   (
+    High Red Flag Megamonas OR 
+    High Red Flag Sutterella OR
+    High Red Flag Collinsella OR
+    Low Red	Flag Bacteroides OR
+    Low Red Flag Blautia
+   )
+-------------------------------   
+2. YELLOW OR RED FLAG COUNT
+
+DOGS: 
+   8 or more Yellow Flags OR 8 or more Red Flags
+   
+Cats: 
+   11 or more Yellow Flags OR 9 or more Red Flags
+  
+-------------------------------
+
+				                 MODERATE TO SEVERE COMBINATIONS:
+
+Combination no			Primary Conditions		Yellow Flag Count		Red Flag Count			STATUS		
+--------------			------------------		-----------------		--------------			------
+
+1.								TRUE						TRUE				TRUE			Fully SATISFIED						
+
+2.								TRUE						FALSE				FALSE			Fully SATISFIED										
+
+3.								FALSE						TRUE				FALSE			Fully SATISFIED				
+
+4.								FALSE						FALSE				TRUE			Fully SATISFIED					
+
+5.								TRUE						FALSE				TRUE			Fully SATISFIED				
+
+6.								TRUE						TRUE			   	FALSE			Fully SATISFIED			
+		
+7.								FALSE						TRUE				TRUE			NOT SATISFIED	[didn't found any sample_id in the random search]		
+
+
+
+
+
+
+
